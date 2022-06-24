@@ -1,0 +1,9 @@
+.section_contenedorvideo{
+    flex: 70%;
+}
+.main_section-videosRecomendados{
+    display: grid;
+    grid-gap: 7px;
+    grid-template-columns: 280px 280px 280px 280px;
+    grid-template-rows: 270px 270px;
+}
